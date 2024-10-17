@@ -36,7 +36,8 @@ Features
 ## Folder Structure
 
 Here’s an overview of the folder structure of the app:
-'''
+
+```
 lib/
 │
 ├── sharedTodo/                             # Core app functionality
@@ -70,4 +71,5 @@ lib/
 │
 ├── firebase_options.dart                   # Firebase configuration
 ├── main.dart                               # Main entry point for the app
-'''
+
+```
